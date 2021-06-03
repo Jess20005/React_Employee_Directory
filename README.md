@@ -12,7 +12,7 @@ This project I created my first employee directory with React.The process requir
 
 Any employee or manager would benefit greatly from being able to view non-sensitive data about other employees. With an extra added feature to sort alphabetically by name and to filter through employees with the search bar.
 
-![Screenshot of directory](public\assets\EmployeeDirectoryScreenshot.png)
+![Screenshot of directory](public/assets/EmployeeDirectoryScreenshot.png)
 
 
 
