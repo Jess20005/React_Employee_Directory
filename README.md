@@ -16,6 +16,8 @@ Any employee or manager would benefit greatly from being able to view non-sensit
 
 
 
-Deployed site: https://jess20005.github.io/React_Employee_Directory/
+Deployed site: https://hidden-stream-64353.herokuapp.com/ (Deployed to Heroku successfully)
+
+https://jess20005.github.io/React_Employee_Directory/ (GitHub Pages attempted)
 
 GitHub Repo: https://github.com/Jess20005/React_Employee_Directory
