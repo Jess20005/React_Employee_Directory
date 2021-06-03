@@ -1,0 +1,5 @@
+.search {
+  display: grid;
+  grid-template-columns: 20% 25% 5% 5% 15% 30%;
+  font-weight: bold;
+}

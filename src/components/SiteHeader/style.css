@@ -1,0 +1,12 @@
+.header {
+  height: 50px;
+  background-color: rgb(127, 177, 192);
+  display: grid;
+  grid-template-columns: 20% 25% 5% 5% 15% 30%;
+  align-items: center;
+  font-weight: bold;
+}
+
+.name {
+  cursor: pointer;
+}
